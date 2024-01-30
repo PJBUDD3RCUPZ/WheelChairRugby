@@ -75,6 +75,39 @@
 				},
 				{
 					"mode": "joystick",
+					"path": "/user/hand/right/input/thumbstick",
+					"inputs":
+					{
+						"touch":
+						{
+							"output": "/actions/main/in/LeftThumbAnim"
+						}
+					}
+				},
+				{
+					"mode": "joystick",
+					"path": "/user/hand/left/input/thumbstick",
+					"inputs":
+					{
+						"touch":
+						{
+							"output": "/actions/main/in/LeftThumbAnim"
+						}
+					}
+				},
+				{
+					"mode": "button",
+					"path": "/user/hand/right/input/b",
+					"inputs":
+					{
+						"click":
+						{
+							"output": "/actions/main/in/Right_B_button"
+						}
+					}
+				},
+				{
+					"mode": "joystick",
 					"path": "/user/hand/left/input/thumbstick",
 					"inputs":
 					{
@@ -173,5 +206,5 @@
 			]
 		}
 	},
-	"description": ""
+	"description": "WheelchairRugby-20979098"
 }
