@@ -180,6 +180,10 @@
 			"type": "boolean"
 		},
 		{
+			"name": "/actions/main/in/CallForBall",
+			"type": "boolean"
+		},
+		{
 			"name": "/actions/main/in/MovementAxisLeft_X,MovementAxisLeft_Y X Y_axis2d",
 			"type": "vector2"
 		},
@@ -476,6 +480,7 @@
 			"/actions/main/in/MenuToggleRight": "MenuToggleRight",
 			"/actions/main/in/RightThumbAnim": "RightThumbAnim",
 			"/actions/main/in/LeftThumbAnim": "LeftThumbAnim",
+			"/actions/main/in/CallForBall": "CallForBall",
 			"/actions/main/in/MovementAxisLeft_X,MovementAxisLeft_Y X Y_axis2d": "MovementAxisLeft",
 			"/actions/main/in/GrabAxisLeft axis": "GrabAxisLeft",
 			"/actions/main/in/TriggerAxisLeft axis": "TriggerAxisLeft",
