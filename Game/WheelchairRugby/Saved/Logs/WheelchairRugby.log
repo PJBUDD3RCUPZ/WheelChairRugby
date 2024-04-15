@@ -2898,3 +2898,73 @@ Referencers of World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:
 [2024.04.15-11.10.15:099][434]LogFileHelpers: No new changes to save!
 [2024.04.15-11.10.15:112][434]AssetCheck: New page: Asset Save: VRTemplateMap
 [2024.04.15-11.10.15:112][434]LogContentValidation: Display: Validating World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2024.04.15-11.10.41:439][617]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/time" FILE="C:/Users/pjbud/OneDrive/Documents/GitHub/WheelChairRubgyGame/WheelChairRugby/Game/WheelchairRugby/Content/time.uasset" SILENT=true
+[2024.04.15-11.10.41:443][617]LogSavePackage: Moving output files for package: /Game/time
+[2024.04.15-11.10.41:444][617]LogSavePackage: Moving 'C:/Users/pjbud/OneDrive/Documents/GitHub/WheelChairRubgyGame/WheelChairRugby/Game/WheelchairRugby/Saved/time16920613471324A2E0C4B2B7BFBD2115.tmp' to 'C:/Users/pjbud/OneDrive/Documents/GitHub/WheelChairRubgyGame/WheelChairRugby/Game/WheelchairRugby/Content/time.uasset'
+[2024.04.15-11.10.41:457][617]AssetCheck: New page: Asset Save: time
+[2024.04.15-11.10.41:457][617]LogContentValidation: Display: Validating WidgetBlueprint /Game/time.time
+[2024.04.15-11.10.42:319][717]BlueprintLog: New page: Compile time
+[2024.04.15-11.10.42:375][717]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.04.15-11.10.43:498][838]LogDebuggerCommands: Repeating last play command: Simulate
+[2024.04.15-11.10.43:503][838]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.15-11.10.43:503][838]PIE: New page: SIE session: VRTemplateMap (Apr 15, 2024, 3:10:43 AM)
+[2024.04.15-11.10.43:503][838]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2024.04.15-11.10.43:509][838]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006061s)
+[2024.04.15-11.10.43:509][838]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.006129s)
+[2024.04.15-11.10.43:509][838]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.04.15-11.10.43:510][838]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.15-11.10.43:510][838]LogAIModule: Creating AISystem for world VRTemplateMap
+[2024.04.15-11.10.43:510][838]LogPlayLevel: PIE: World Init took: (0.000604s)
+[2024.04.15-11.10.43:545][838]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.04.15-11.10.43:548][838]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2024.04.15-11.10.43:548][838]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.15-11.10.43:548][838]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.15-11.10.43:548][838]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.15-11.10.43:548][838]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.15-11.10.43:548][838]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.15-11.10.43:548][838]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.04.15-11.10.43:548][838]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.15-11.10.43:548][838]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.15-11.10.43:548][838]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2024.04.15-11.10.43:548][838]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2024.04.15-11.10.43:548][838]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.15-11.10.43:550][838]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.15-11.10.43:564][838]LogAudioMixer: Display: Using Audio Hardware Device SMB2270HD (NVIDIA High Definition Audio)
+[2024.04.15-11.10.43:564][838]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.15-11.10.43:564][838]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.15-11.10.43:564][838]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.15-11.10.43:565][838]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=27
+[2024.04.15-11.10.43:565][838]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=27
+[2024.04.15-11.10.43:565][838]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=27
+[2024.04.15-11.10.43:565][838]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=27
+[2024.04.15-11.10.43:565][838]LogInit: FAudioDevice initialized.
+[2024.04.15-11.10.43:565][838]LogAudio: Display: Audio Device (ID: 27) registered with world 'VRTemplateMap'.
+[2024.04.15-11.10.43:571][838]LogLoad: Game class is 'VRGameMode_C'
+[2024.04.15-11.10.43:573][838]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2024.04.15-07.10.43
+[2024.04.15-11.10.43:574][838]LogWorld: Bringing up level for play took: 0.002716
+[2024.04.15-11.10.43:575][838]LogOnline: OSS: Created online subsystem instance for: :Context_46
+[2024.04.15-11.10.43:575][838]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.04.15-11.10.43:575][838]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2024.04.15-11.10.43:575][838]LogPawn: Error: EnableInput can only be specified on a Pawn for its Controller
+[2024.04.15-11.10.43:575][838]LogPawn: Error: EnableInput can only be specified on a Pawn for its Controller
+[2024.04.15-11.10.43:575][838]PIE: Server logged in
+[2024.04.15-11.10.43:576][838]PIE: Play in editor total start time 0.073 seconds.
+[2024.04.15-11.10.43:593][838]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2024.04.15-11.10.44:117][885]PIE: Warning: Invalid Simulate Options: Body (BP_Ball.staticMesh SM_Ball_01) is set to simulate physics but Collision Enabled is incompatible
+[2024.04.15-11.10.44:118][885]PIE: Warning: Invalid Simulate Options: Body (BP_Ball.staticMesh SM_Ball_01) is set to simulate physics but Collision Enabled is incompatible
+[2024.04.15-11.10.44:118][885]PIE: Warning: Invalid Simulate Options: Body (BP_Ball.staticMesh SM_Ball_01) is set to simulate physics but Collision Enabled is incompatible
+[2024.04.15-11.10.48:501][411]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.15-11.10.48:538][411]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2024.04.15-11.10.48:538][411]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.15-11.10.48:539][411]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.15-11.10.48:551][411]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.15-11.10.48:555][411]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.15-11.10.48:593][411]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.15-11.10.48:593][411]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2024.04.15-11.10.48:593][411]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2024.04.15-11.10.48:594][411]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2024.04.15-11.10.48:597][411]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.15-11.10.48:599][411]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.04.15-11.10.48:669][412]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2024.04.15-11.10.53:079][911]LogSlate: Window 'Message Log' being destroyed
+[2024.04.15-11.10.53:084][911]LogSlate: Window 'Message Log' being destroyed
