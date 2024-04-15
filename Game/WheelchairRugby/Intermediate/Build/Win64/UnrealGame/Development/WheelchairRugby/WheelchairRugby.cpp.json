@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\pjbud\\onedrive\\documents\\github\\wheelchairrubgygame\\wheelchairrugby\\game\\wheelchairrugby\\intermediate\\source\\wheelchairrugby.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\pjbud\\onedrive\\documents\\github\\wheelchairrubgygame\\wheelchairrugby\\game\\wheelchairrugby\\intermediate\\build\\win64\\wheelchairrugby\\development\\core\\sharedpch.core.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\pjbud\\onedrive\\documents\\github\\wheelchairrubgygame\\wheelchairrugby\\game\\wheelchairrugby\\intermediate\\build\\win64\\unrealgame\\development\\wheelchairrugby\\definitions.wheelchairrugby.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
