@@ -164,14 +164,6 @@
 			"type": "boolean"
 		},
 		{
-			"name": "/actions/main/in/MenuToggleLeft",
-			"type": "boolean"
-		},
-		{
-			"name": "/actions/main/in/MenuToggleRight",
-			"type": "boolean"
-		},
-		{
 			"name": "/actions/main/in/RightThumbAnim",
 			"type": "boolean"
 		},
@@ -181,6 +173,10 @@
 		},
 		{
 			"name": "/actions/main/in/CallForBall",
+			"type": "boolean"
+		},
+		{
+			"name": "/actions/main/in/ReturnToStartRoom",
 			"type": "boolean"
 		},
 		{
@@ -476,11 +472,10 @@
 			"/actions/main/in/GrabRight": "GrabRight",
 			"/actions/main/in/TriggerLeft": "TriggerLeft",
 			"/actions/main/in/TriggerRight": "TriggerRight",
-			"/actions/main/in/MenuToggleLeft": "MenuToggleLeft",
-			"/actions/main/in/MenuToggleRight": "MenuToggleRight",
 			"/actions/main/in/RightThumbAnim": "RightThumbAnim",
 			"/actions/main/in/LeftThumbAnim": "LeftThumbAnim",
 			"/actions/main/in/CallForBall": "CallForBall",
+			"/actions/main/in/ReturnToStartRoom": "ReturnToStartRoom",
 			"/actions/main/in/MovementAxisLeft_X,MovementAxisLeft_Y X Y_axis2d": "MovementAxisLeft",
 			"/actions/main/in/GrabAxisLeft axis": "GrabAxisLeft",
 			"/actions/main/in/TriggerAxisLeft axis": "TriggerAxisLeft",
