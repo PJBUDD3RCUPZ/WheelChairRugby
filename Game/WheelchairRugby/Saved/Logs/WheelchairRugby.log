@@ -1306,3 +1306,20 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2024.04.16-03.06.22:207][493]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
 [2024.04.16-03.06.22:211][493]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
 [2024.04.16-03.06.22:238][494]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2024.04.16-03.06.48:596][726]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.04.16-03.06.48:597][726]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.033
+[2024.04.16-03.06.48:597][726]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GS_Scoring] ([2] browsable assets)...
+[2024.04.16-03.06.48:597][726]OBJ SavePackage: Finished generating thumbnails for package [/Game/GS_Scoring]
+[2024.04.16-03.06.48:601][726]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/GS_Scoring_Auto3
+[2024.04.16-03.06.48:602][726]LogSavePackage: Moving 'C:/Users/pjbud/OneDrive/Documents/GitHub/WheelChairRubgyGame/WheelChairRugby/Game/WheelchairRugby/Saved/GS_Scoring_Auto38D91AB0541F78B7DCE2EBE9CDE0291D6.tmp' to 'C:/Users/pjbud/OneDrive/Documents/GitHub/WheelChairRubgyGame/WheelChairRugby/Game/WheelchairRugby/Saved/Autosaves/Game/GS_Scoring_Auto3.uasset'
+[2024.04.16-03.06.48:603][726]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/WB_TeamsScore] ([2] browsable assets)...
+[2024.04.16-03.06.48:605][726]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/WB_TeamsScore.WB_TeamsScore]
+[2024.04.16-03.06.48:605][726]OBJ SavePackage: Finished generating thumbnails for package [/Game/WB_TeamsScore]
+[2024.04.16-03.06.48:609][726]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/WB_TeamsScore_Auto3
+[2024.04.16-03.06.48:609][726]LogSavePackage: Moving 'C:/Users/pjbud/OneDrive/Documents/GitHub/WheelChairRubgyGame/WheelChairRugby/Game/WheelchairRugby/Saved/WB_TeamsScore_Auto320C322784D98D943C0B1A09AC161D608.tmp' to 'C:/Users/pjbud/OneDrive/Documents/GitHub/WheelChairRubgyGame/WheelChairRugby/Game/WheelchairRugby/Saved/Autosaves/Game/WB_TeamsScore_Auto3.uasset'
+[2024.04.16-03.06.48:610][726]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/time] ([2] browsable assets)...
+[2024.04.16-03.06.48:612][726]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/time.time]
+[2024.04.16-03.06.48:612][726]OBJ SavePackage: Finished generating thumbnails for package [/Game/time]
+[2024.04.16-03.06.48:617][726]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/time_Auto3
+[2024.04.16-03.06.48:617][726]LogSavePackage: Moving 'C:/Users/pjbud/OneDrive/Documents/GitHub/WheelChairRubgyGame/WheelChairRugby/Game/WheelchairRugby/Saved/time_Auto3D823588047097B8463FB698EB22EA0BF.tmp' to 'C:/Users/pjbud/OneDrive/Documents/GitHub/WheelChairRubgyGame/WheelChairRugby/Game/WheelchairRugby/Saved/Autosaves/Game/time_Auto3.uasset'
+[2024.04.16-03.06.48:618][726]LogFileHelpers: Auto-saving content packages took 0.021
