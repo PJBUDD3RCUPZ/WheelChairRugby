@@ -3943,3 +3943,14 @@ Make sure 'GS_Scoring_C' has been compiled for  Get In Lap
 [2024.04.18-01.12.01:538][ 41]LogSavePackage: Moving '../../../../../../Users/pjbrich/Documents/GitHub/WheelChairRugby/Game/WheelchairRugby/Saved/VRTemplateMap_Auto4F2ADFBF44A2956376D574A9C2B346F19.tmp' to '../../../../../../Users/pjbrich/Documents/GitHub/WheelChairRugby/Game/WheelchairRugby/Saved/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto4.umap'
 [2024.04.18-01.12.01:542][ 41]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.124
 [2024.04.18-01.12.01:543][ 41]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.124
+[2024.04.18-01.26.44:494][528]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.04.18-01.26.44:562][528]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2024.04.18-01.26.44:563][528]LogSavePackage: Moving '../../../../../../Users/pjbrich/Documents/GitHub/WheelChairRugby/Game/WheelchairRugby/Saved/VRTemplateMap99D75733424188443895FAA0EC63EA14.tmp' to '../../../../../../Users/pjbrich/Documents/GitHub/WheelChairRugby/Game/WheelchairRugby/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2024.04.18-01.26.44:579][528]LogFileHelpers: Saving map 'VRTemplateMap' took 0.141
+[2024.04.18-01.26.44:593][528]AssetCheck: New page: Asset Save: VRTemplateMap
+[2024.04.18-01.26.44:593][528]LogContentValidation: Display: Validating World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2024.04.18-01.26.47:237][739]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GS_Scoring" FILE="../../../../../../Users/pjbrich/Documents/GitHub/WheelChairRugby/Game/WheelchairRugby/Content/GS_Scoring.uasset" SILENT=true
+[2024.04.18-01.26.47:246][739]LogSavePackage: Moving output files for package: /Game/GS_Scoring
+[2024.04.18-01.26.47:247][739]LogSavePackage: Moving '../../../../../../Users/pjbrich/Documents/GitHub/WheelChairRugby/Game/WheelchairRugby/Saved/GS_Scoring7602A8564BF713275FCA28A62F4C0ED4.tmp' to '../../../../../../Users/pjbrich/Documents/GitHub/WheelChairRugby/Game/WheelchairRugby/Content/GS_Scoring.uasset'
+[2024.04.18-01.26.47:263][739]AssetCheck: New page: Asset Save: GS_Scoring
+[2024.04.18-01.26.47:263][739]LogContentValidation: Display: Validating Blueprint /Game/GS_Scoring.GS_Scoring
